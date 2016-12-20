@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="20" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="21" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="25" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="26" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="27" pc="268435526" symbol="onLayout"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="28" pc="268435569" symbol="onLayout"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="32" pc="268435607" symbol="onShow"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="35" pc="268435612" symbol="toRad"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="36" pc="268435616" symbol="toRad"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="39" pc="268435641" symbol="toDeg"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="40" pc="268435645" symbol="toDeg"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="43" pc="268435670" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="44" pc="268435674" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="47" pc="268435692" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="48" pc="268435717" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="49" pc="268435742" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="50" pc="268435797" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="53" pc="268435816" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="54" pc="268435837" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="57" pc="268435856" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="60" pc="268435872" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="63" pc="268435962" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="63" pc="268435973" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="64" pc="268435986" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="64" pc="268435997" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="67" pc="268436010" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="69" pc="268436076" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="69" pc="268436087" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="70" pc="268436100" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="70" pc="268436111" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="73" pc="268436124" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="74" pc="268436149" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="75" pc="268436174" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="78" pc="268436184" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="81" pc="268436194" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="82" pc="268436232" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="85" pc="268436270" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="90" pc="268436337" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="91" pc="268436375" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="94" pc="268436385" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="97" pc="268436407" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="99" pc="268436414" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="99" pc="268436425" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="100" pc="268436438" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="100" pc="268436449" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="104" pc="268436462" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="106" pc="268436494" symbol="sunRise"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="109" pc="268436596" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="110" pc="268436600" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="113" pc="268436618" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="114" pc="268436643" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="115" pc="268436668" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="116" pc="268436723" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="119" pc="268436742" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="120" pc="268436763" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="123" pc="268436782" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="126" pc="268436798" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="129" pc="268436888" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="129" pc="268436899" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="130" pc="268436912" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="130" pc="268436923" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="133" pc="268436936" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="135" pc="268437002" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="135" pc="268437013" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="136" pc="268437026" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="136" pc="268437037" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="139" pc="268437050" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="140" pc="268437075" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="141" pc="268437100" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="144" pc="268437110" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="147" pc="268437120" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="148" pc="268437158" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="151" pc="268437196" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="157" pc="268437263" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="158" pc="268437295" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="161" pc="268437305" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="164" pc="268437327" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="166" pc="268437334" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="166" pc="268437345" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="167" pc="268437358" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="167" pc="268437369" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="172" pc="268437382" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="174" pc="268437414" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="175" pc="268437515" symbol="sunSet"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="178" pc="268437532" symbol="moonPhase"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="179" pc="268437536" symbol="moonPhase"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="180" pc="268437552" symbol="moonPhase"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="180" pc="268437563" symbol="moonPhase"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="181" pc="268437576" symbol="moonPhase"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="182" pc="268437598" symbol="moonPhase"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="182" pc="268437609" symbol="moonPhase"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="183" pc="268437622" symbol="moonPhase"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="184" pc="268437632" symbol="moonPhase"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="185" pc="268437657" symbol="moonPhase"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="185" pc="268437668" symbol="moonPhase"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="186" pc="268437681" symbol="moonPhase"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="190" pc="268437692" symbol="drawMoon"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="191" pc="268437696" symbol="drawMoon"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="192" pc="268437703" symbol="drawMoon"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="193" pc="268437710" symbol="drawMoon"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="194" pc="268437746" symbol="drawMoon"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="196" pc="268437772" symbol="drawMoon"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="197" pc="268437789" symbol="drawMoon"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="199" pc="268437842" symbol="drawMoon"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="203" pc="268437890" symbol="drawActivity"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="204" pc="268437894" symbol="drawActivity"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="206" pc="268437901" symbol="drawActivity"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="207" pc="268437918" symbol="drawActivity"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="208" pc="268437948" symbol="drawActivity"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="208" pc="268437965" symbol="drawActivity"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="211" pc="268437994" symbol="drawActivity"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="211" pc="268438008" symbol="drawActivity"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="213" pc="268438021" symbol="drawActivity"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="217" pc="268438097" symbol="drawActivity"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="218" pc="268438115" symbol="drawActivity"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="222" pc="268438137" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="223" pc="268438141" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="224" pc="268438148" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="225" pc="268438155" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="226" pc="268438162" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="228" pc="268438169" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="230" pc="268438218" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="230" pc="268438232" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="232" pc="268438245" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="234" pc="268438281" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="235" pc="268438288" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="236" pc="268438303" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="239" pc="268438351" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="240" pc="268438371" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="241" pc="268438407" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="242" pc="268438454" symbol="drawActivityToday"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="246" pc="268438493" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="247" pc="268438497" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="248" pc="268438504" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="249" pc="268438511" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="250" pc="268438518" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="252" pc="268438525" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="254" pc="268438532" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="255" pc="268438556" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="257" pc="268438608" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="257" pc="268438622" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="259" pc="268438635" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="261" pc="268438671" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="262" pc="268438678" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="263" pc="268438693" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="266" pc="268438747" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="267" pc="268438773" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="268" pc="268438809" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="269" pc="268438862" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="271" pc="268438906" symbol="drawActivityPast"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="276" pc="268438933" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="277" pc="268438937" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="278" pc="268438957" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="280" pc="268438993" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="281" pc="268439012" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="283" pc="268439035" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="284" pc="268439046" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="287" pc="268439059" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="288" pc="268439100" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="289" pc="268439141" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="290" pc="268439221" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="292" pc="268439319" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="294" pc="268439351" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="297" pc="268439376" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="298" pc="268439383" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="299" pc="268439402" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="302" pc="268439421" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="303" pc="268439528" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="304" pc="268439595" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="306" pc="268439803" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="307" pc="268439870" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="310" pc="268439940" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="311" pc="268440045" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="314" pc="268440153" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="316" pc="268440254" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="317" pc="268440325" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="318" pc="268440418" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="320" pc="268440529" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="321" pc="268440558" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="323" pc="268440621" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="326" pc="268440649" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="327" pc="268440660" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="328" pc="268440696" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="329" pc="268440728" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="330" pc="268440764" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="332" pc="268440817" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="333" pc="268440853" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="336" pc="268440903" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="337" pc="268440939" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="338" pc="268440995" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="340" pc="268441009" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="343" pc="268441089" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="344" pc="268441156" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="346" pc="268441220" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="348" pc="268441268" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="349" pc="268441285" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="350" pc="268441321" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="351" pc="268441389" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="353" pc="268441460" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="354" pc="268441496" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="355" pc="268441564" symbol="onUpdate"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="360" pc="268441633" symbol="onHide"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="364" pc="268441638" symbol="onExitSleep"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="365" pc="268441642" symbol="onExitSleep"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidView.mc" lineNum="369" pc="268441674" symbol="onEnterSleep"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidApp.mc" lineNum="5" pc="268441679" symbol="initialize"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidApp.mc" lineNum="6" pc="268441683" symbol="initialize"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidApp.mc" lineNum="10" pc="268441702" symbol="onStart"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidApp.mc" lineNum="14" pc="268441707" symbol="onStop"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidApp.mc" lineNum="18" pc="268441712" symbol="getInitialView"/>
+<entry filename="/Users/k1berH/eclipse/workspace/gilgadroid/source/gilgadroidApp.mc" lineNum="19" pc="268441716" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="20" pc="268441754" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="18" symbol="ratio"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="8" object="true" symbol="gilgadroidView"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="14" symbol="sunset"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="22" method="true" symbol="sunSet"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="31" symbol="AppName"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry field="true" id="30" symbol="LauncherIcon"/>
+<entry id="24" method="true" symbol="drawMoon"/>
+<entry field="true" id="17" symbol="RND"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="26" method="true" symbol="drawActivityToday"/>
+<entry field="true" id="11" symbol="myFontS"/>
+<entry field="true" id="12" symbol="myFontM"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="13" symbol="sunrise"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="19" method="true" symbol="toRad"/>
+<entry id="27" method="true" symbol="drawActivityPast"/>
+<entry field="true" id="16" symbol="todate"/>
+<entry field="true" id="15" symbol="moon"/>
+<entry field="true" id="10" symbol="LINES"/>
+<entry id="29" module="true" symbol="Layouts"/>
+<entry id="9" object="true" symbol="gilgadroidApp"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="25" method="true" symbol="drawActivity"/>
+<entry id="28" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="23" method="true" symbol="moonPhase"/>
+<entry id="20" method="true" symbol="toDeg"/>
+<entry id="21" method="true" symbol="sunRise"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436595" name="Mup" stackId="13" startPc="268435674"/>
+<entry endPc="268436595" name="zenith" stackId="6" startPc="268435674"/>
+<entry endPc="268436595" name="lngHour" stackId="11" startPc="268435674"/>
+<entry endPc="268436595" name="cosDecUp" stackId="19" startPc="268435674"/>
+<entry endPc="268436595" name="Hup" stackId="21" startPc="268435674"/>
+<entry endPc="268436595" name="LquadrantUp" stackId="16" startPc="268435674"/>
+<entry endPc="268436595" name="N" stackId="10" startPc="268435674"/>
+<entry endPc="268436595" name="sinDecUp" stackId="18" startPc="268435674"/>
+<entry endPc="268436595" name="N3" stackId="9" startPc="268435674"/>
+<entry endPc="268436595" name="Lup" stackId="14" startPc="268435674"/>
+<entry endPc="268436595" name="N2" stackId="8" startPc="268435674"/>
+<entry endPc="268436595" name="N1" stackId="7" startPc="268435674"/>
+<entry endPc="268436595" name="RAquadrantUp" stackId="17" startPc="268435674"/>
+<entry endPc="268436595" name="UTup" stackId="23" startPc="268435674"/>
+<entry endPc="268436595" name="RAup" stackId="15" startPc="268435674"/>
+<entry endPc="268436595" name="tUp" stackId="12" startPc="268435674"/>
+<entry endPc="268436595" name="Tup" stackId="22" startPc="268435674"/>
+<entry endPc="268436595" name="localUp" stackId="24" startPc="268435674"/>
+<entry endPc="268436595" name="cosHup" stackId="20" startPc="268435674"/>
+<entry endPc="268437531" name="zenith" stackId="6" startPc="268436600"/>
+<entry endPc="268437531" name="lngHour" stackId="11" startPc="268436600"/>
+<entry endPc="268437531" name="Tdo" stackId="22" startPc="268436600"/>
+<entry endPc="268437531" name="localDo" stackId="24" startPc="268436600"/>
+<entry endPc="268437531" name="cosHdo" stackId="20" startPc="268436600"/>
+<entry endPc="268437531" name="Mdo" stackId="13" startPc="268436600"/>
+<entry endPc="268437531" name="N" stackId="10" startPc="268436600"/>
+<entry endPc="268437531" name="N3" stackId="9" startPc="268436600"/>
+<entry endPc="268437531" name="cosDecDo" stackId="19" startPc="268436600"/>
+<entry endPc="268437531" name="N2" stackId="8" startPc="268436600"/>
+<entry endPc="268437531" name="N1" stackId="7" startPc="268436600"/>
+<entry endPc="268437531" name="Hdo" stackId="21" startPc="268436600"/>
+<entry endPc="268437531" name="LquadrantDo" stackId="16" startPc="268436600"/>
+<entry endPc="268437531" name="sinDecDo" stackId="18" startPc="268436600"/>
+<entry endPc="268437531" name="Ldo" stackId="14" startPc="268436600"/>
+<entry endPc="268437531" name="RAquadrantDo" stackId="17" startPc="268436600"/>
+<entry endPc="268437531" name="UTdo" stackId="23" startPc="268436600"/>
+<entry endPc="268437531" name="RAdo" stackId="15" startPc="268436600"/>
+<entry endPc="268437531" name="tDo" stackId="12" startPc="268436600"/>
+<entry endPc="268437691" name="r" stackId="4" startPc="268437536"/>
+<entry endPc="268437889" name="Y" stackId="3" startPc="268437696"/>
+<entry endPc="268437889" name="X" stackId="2" startPc="268437696"/>
+<entry endPc="268437994" name="i" stackId="5" startPc="268437948"/>
+<entry endPc="268438136" name="maxSteps" stackId="4" startPc="268437894"/>
+<entry endPc="268438492" name="L" stackId="6" startPc="268438141"/>
+<entry endPc="268438492" name="lines" stackId="8" startPc="268438141"/>
+<entry endPc="268438492" name="j" stackId="9" startPc="268438141"/>
+<entry endPc="268438492" name="S" stackId="7" startPc="268438141"/>
+<entry endPc="268438492" name="Y" stackId="5" startPc="268438141"/>
+<entry endPc="268438492" name="X" stackId="4" startPc="268438141"/>
+<entry endPc="268438919" name="lines" stackId="10" startPc="268438556"/>
+<entry endPc="268438919" name="j" stackId="11" startPc="268438556"/>
+<entry endPc="268438932" name="i" stackId="9" startPc="268438556"/>
+<entry endPc="268438932" name="x" stackId="8" startPc="268438497"/>
+<entry endPc="268438932" name="L" stackId="6" startPc="268438497"/>
+<entry endPc="268438932" name="S" stackId="7" startPc="268438497"/>
+<entry endPc="268438932" name="Y" stackId="5" startPc="268438497"/>
+<entry endPc="268438932" name="X" stackId="4" startPc="268438497"/>
+<entry endPc="268440150" name="long" stackId="11" startPc="268439383"/>
+<entry endPc="268440150" name="lat" stackId="10" startPc="268439383"/>
+<entry endPc="268441632" name="datem" stackId="5" startPc="268438937"/>
+<entry endPc="268441632" name="date" stackId="4" startPc="268438937"/>
+<entry endPc="268441632" name="timeNow" stackId="2" startPc="268438937"/>
+<entry endPc="268441632" name="gps" stackId="9" startPc="268438937"/>
+<entry endPc="268441632" name="batt" stackId="8" startPc="268438937"/>
+<entry endPc="268441632" name="dateTomo" stackId="7" startPc="268438937"/>
+<entry endPc="268441632" name="utcOffset" stackId="3" startPc="268438937"/>
+<entry endPc="268441632" name="dateUTC" stackId="6" startPc="268438937"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="gilgadroidView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="gilgadroidView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="gilgadroidView">
+<documentation/>
+</functionEntry>
+<functionEntry name="toRad" parent="gilgadroidView">
+<param id="num"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="toDeg" parent="gilgadroidView">
+<param id="num"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="sunRise" parent="gilgadroidView">
+<param id="year"/>
+<param id="month"/>
+<param id="day"/>
+<param id="latitude"/>
+<param id="longitude"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="sunSet" parent="gilgadroidView">
+<param id="year"/>
+<param id="month"/>
+<param id="day"/>
+<param id="latitude"/>
+<param id="longitude"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="moonPhase" parent="gilgadroidView">
+<param id="year"/>
+<param id="month"/>
+<param id="day"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawMoon" parent="gilgadroidView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawActivity" parent="gilgadroidView">
+<param id="dc"/>
+<param id="activity"/>
+<param id="history"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawActivityToday" parent="gilgadroidView">
+<param id="dc"/>
+<param id="activity"/>
+<param id="maxSteps"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawActivityPast" parent="gilgadroidView">
+<param id="dc"/>
+<param id="history"/>
+<param id="maxSteps"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="gilgadroidView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="gilgadroidView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="gilgadroidView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="gilgadroidView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="gilgadroidApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="gilgadroidApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="gilgadroidApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="gilgadroidApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

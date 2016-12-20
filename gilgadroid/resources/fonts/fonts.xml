@@ -1,0 +1,4 @@
+<fonts>
+	<font id="myFontM" filename="neuro17.fnt" filter="0123456789hmMDW:.TUEHSAONFRI" />
+	<font id="myFontS" filename="neuro12.fnt" filter="0123456789MD.:%" />
+</fonts>
